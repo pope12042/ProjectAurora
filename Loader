@@ -1,1 +1,4 @@
-nigga
+while true do
+print("nigga")
+  wait(0)
+end
